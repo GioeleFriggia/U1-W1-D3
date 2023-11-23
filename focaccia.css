@@ -1,5 +1,8 @@
 .div1 {
   text-align: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .parte1 {
   text-align: center;
@@ -15,6 +18,9 @@
 }
 .image2 {
   text-align: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .pp2 {
   text-align: center;
